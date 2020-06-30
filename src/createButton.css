@@ -1,0 +1,21 @@
+.CreateButton {
+    background-color: #cacaca;
+    border: 0;
+    color: black;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    height: 30px;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    width: 60px;
+  }
+  
+  a.Createutton {
+    padding: 16px 8px 8px;
+  }
+  
+  .CreateButton:hover {
+    cursor: pointer;
+  }
